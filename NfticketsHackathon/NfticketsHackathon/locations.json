@@ -1,0 +1,221 @@
+[
+    {
+        "id": 1,
+        "name": "John Mayer",
+        "category": "Concert",
+        "country": "California",
+        "isFavorite": true,
+        "isFeatured": true,
+        "location": "Rose Bowl Stadium, Los Angeles,",
+        "date": "7th September, 2022",
+        "price": "from £120",
+        "imageName": "JohnMayer",
+        "url": "nolink",
+        "coordinates": {
+            "latitude": 34.161327,
+            "longitude": -118.167648
+            },
+      },
+    {
+        "id": 2,
+        "name": "Maggie Rodgers",
+        "category": "Concert",
+        "country": "London",
+        "isFavorite": true,
+        "isFeatured": true,
+        "location": "O2 Academy Brixton,",
+        "date": "8th September, 2022",
+        "price": "from £45",
+        "imageName": "MaggieRodgers",
+        "url": "nolink",
+        "coordinates": {
+            "latitude": 51.465107,
+            "longitude": -0.114922
+        },
+      
+    },
+    {
+        "id": 3,
+        "name": "Childish Gambino",
+        "category": "Concert",
+        "country": "Birmingham",
+        "isFavorite": false,
+        "isFeatured": true,
+        "location": "National Exhibition Centre,",
+        "date": "May 19th 2023",
+        "imageName": "Gambino",
+        "price": "from £55",
+        "url": "nolink",
+        "coordinates": {
+            "latitude":52.453333,
+            "longitude": -1.719444
+        },
+        
+    },
+    {
+        "id": 4,
+        "name": "The 1975",
+        "category": "Concert",
+        "country": "London",
+        "isFavorite":  true,
+        "isFeatured": true,
+        "location": "Wembley Stadium,",
+        "date": "December 8th, 2022",
+        "price": "from £78",
+        "imageName": "The1975",
+        "url": "nolink",
+        "coordinates": {
+            "latitude": 51.555973,
+            "longitude": -0.279672
+        },
+        
+      
+    },
+    {
+        "id": 5,
+        "name": "Nfticket Soft Launch",
+        "category": "Festival",
+        "country": "California",
+        "isFavorite": true,
+        "isFeatured": true,
+        "location": "Oracle Park, San Francisco,",
+        "date": "October 7th, 2022",
+        "imageName": "OraclePark",
+        "price": "Free",
+        "url": "nolink",
+        "coordinates": {
+            "latitude": 37.778572,
+            "longitude": -122.389717
+            
+        },
+        
+    },
+    {
+        "id": 6,
+        "name": "Glastonbury",
+        "category": "Festival",
+        "country": "Somerset",
+        "isFavorite": true,
+        "isFeatured": true,
+        "location": "Pilton,",
+        "date": "June 23th, 2023",
+        "price": "from £370",
+        "imageName": "Glastonbury",
+        "url": "nolink",
+        "coordinates": {
+            "latitude": 51.085082,
+            "longitude": -2.431470
+        },
+        
+    },
+    {
+        "id": 7,
+        "name": "Alfie Templeman",
+        "category": "Concert",
+        "country": "Birmingham",
+        "isFavorite": false,
+        "isFeatured": true,
+        "location": "National Exhibition Center,",
+        "date": "January 28th, 2023",
+        "price": "from £40",
+        "imageName": "AlfieT",
+        "url": "nolink",
+        "coordinates": {
+            "latitude": 51.555973,
+            "longitude": -0.279672
+        },
+        
+    },
+    {
+        "id": 8,
+        "name": "Arsenal FC v Man City FC",
+        "category": "Sport",
+        "country": "London",
+        "isFavorite": false,
+        "isFeatured": true,
+        "location": "Emirates Stadium,",
+        "date": "August 14th, 2022",
+        "price": "from £65",
+        "imageName": "Emirates,jpg",
+        "url": "nolink",
+        "coordinates" : {
+            "latitude": 51.554867,
+            "longitude": -0.109112
+            
+        },
+    },
+    {
+        "id": 9,
+        "name": "Reading Festival",
+        "category": "Festival",
+        "country": "Reading",
+        "isFavorite": true,
+        "isFeatured": true,
+        "location": "Richfield Avenue, Berkshire,",
+        "date": "August 24th, 2022",
+        "price": "from £89",
+        "imageName": "ReadingLeeds",
+        "url": "nolink",
+        "coordinates": {
+            "latitude": 51.464542,
+            "longitude": -0.98204
+            
+        },
+    },
+    {
+        "id": 10,
+        "name": "Outlook Festival",
+        "category": "Festival",
+        "country": "Croatia",
+        "isFavorite": false,
+        "isFeatured": true,
+        "location": "Pula,",
+        "date": "August 2nd, 2023",
+        "price": "from £125",
+        "imageName": "Outlook",
+        "url": "nolink",
+        "coordinates": {
+        "latitude": 44.866623,
+        "longitude": 13.849579
+        },
+        
+    },
+    
+    {
+        "id": 11,
+        "name": "SuperBowl 2023",
+        "category": "Sport",
+        "country": "United States",
+        "isFavorite": false,
+        "isFeatured": true,
+        "location": "Glendale,",
+        "date": "Febuary 13th, 2023",
+        "price": "from £325",
+        "imageName": "SuperBowl1",
+        "url": "nolink",
+        "coordinates": {
+        "latitude": 33.527283,
+        "longitude": -112.263275
+        },
+        
+    },
+    
+    {
+        "id": 12,
+        "name": "Champions League 2023 Final ",
+        "category": "Sport",
+        "country": "Turkey",
+        "isFavorite": false,
+        "isFeatured": true,
+        "location": "Istanbul,",
+        "date": "June 10th, 2023",
+        "price": "from £185",
+        "imageName": "ChampionsLeague",
+        "url": "nolink",
+        "coordinates": {
+        "latitude": 41.074272,
+        "longitude": 28.764156
+        },
+        
+    },
+]
